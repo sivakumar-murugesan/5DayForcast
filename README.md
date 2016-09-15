@@ -3,4 +3,4 @@ single HTML page application displaying the 5 day weather forecast for a locatio
 
 Used HTML5, Css3 , Javscript , Jquery and Bootstrap.
 
-Unzup the 5DayForecast, and open the  index.html in chrome / firefox browser, for some reason the api is failing in ie browser.
+Unzip the 5DayForecast, and open the  index.html in chrome / firefox browser, for some reason the api is failing in ie browser need to check.
